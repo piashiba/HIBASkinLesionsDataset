@@ -32,4 +32,4 @@ isic metadata download --collections 176
 isic image download --collections 176 images/
 ```
 ## Exploratory Data Analysis (EDA)
-In this [Python notebook](https://github.com/piashiba/HIBASkinLesionsDataset/blob/d2feb78280d216b4217d175c5f85b0ba2f5d9924/ExploratoryDataAnalysis.ipynb) we performed the download of the collection from the ISIC Archive by resorting to the command line tool, and carried out the exploratory data analysis (EDA). In this regard, we evaluated the distribution of patients, lesions and images, as well as analyzed the characteristics of patients (age, sex, personal and family history of melanoma) and lesions (diagnosis, type of confirmation for diagnosis, location).
+In this [Python notebook](ExploratoryDataAnalysis.ipynb) we performed the download of the collection from the ISIC Archive by resorting to the command line tool, and carried out the exploratory data analysis (EDA). In this regard, we evaluated the distribution of patients, lesions and images, as well as analyzed the characteristics of patients (age, sex, personal and family history of melanoma) and lesions (diagnosis, type of confirmation for diagnosis, location).
