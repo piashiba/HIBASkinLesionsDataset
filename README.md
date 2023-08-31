@@ -1,4 +1,4 @@
-# Hospital Italiano de Buenos Aires Skin Lesions Dataset
+# #Hospital Italiano de Buenos Aires Skin Lesions Images (2019-2022) Dataset
 This repository hosts the Python script to perform the Exploratory Data Analysis (EDA) of the Hospital Italiano de Buenos Aires skin lesion dataset shared through the ISIC Archive. This project was conducted by the Dermatology Department and the Artificial Intelligence and Data Science program of the Health Informatics Department of the institution.
 
 ## Dataset description
