@@ -11,7 +11,7 @@ The dataset described here was composed of information collected from 628 patien
 The dataset is registered as a collection in the ISIC Archive. In this sense, it can be downloaded in two ways:
 
 1. By visiting the ISIC Archive website or accessing the collection DOI https://doi.org/10.34970/432362.
-![image](https://user-images.githubusercontent.com/74262815/233081137-d1403678-59ae-4bb3-8f8c-a25a03f75611.png)
+![image](![image](https://github.com/piashiba/HIBASkinLesionsDataset/assets/74262815/b255d4f0-eac9-4f07-96fb-2758dee1820b))
 
 2. By resorting to the official command line tool for interacting with the ISIC Archive (for more information visit https://github.com/ImageMarkup/isic-cli)
 
@@ -20,16 +20,16 @@ The dataset is registered as a collection in the ISIC Archive. In this sense, it
 pip install isic-cli 
 
 # Find the collection ID
-isic collection list # Hospital Italiano de Buenos Aires Skin Lesions (ID 176)
+isic collection list # Hospital Italiano de Buenos Aires Skin Lesions (ID 251)
 
 # Download the collection metadata
-isic metadata download --collections 176
+isic metadata download --collections 251
 
 # Download the collection metadata
-isic metadata download --collections 176
+isic metadata download --collections 251
 
 # Download the collection images (and save them in the 'images/' folder).
-isic image download --collections 176 images/
+isic image download --collections 251 images/
 ```
 ## Exploratory Data Analysis (EDA)
 In this [Python notebook](ExploratoryDataAnalysis.ipynb) we performed the download of the collection from the ISIC Archive by resorting to the command line tool, and carried out the exploratory data analysis (EDA). In this regard, we evaluated the distribution of patients, lesions and images, as well as analyzed the characteristics of patients (age, sex, personal and family history of melanoma) and lesions (diagnosis, type of confirmation for diagnosis, location).
