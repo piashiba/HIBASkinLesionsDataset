@@ -2,7 +2,7 @@
 This repository hosts the Python script to perform the Exploratory Data Analysis (EDA) of the Hospital Italiano de Buenos Aires skin lesion dataset shared through the ISIC Archive. This project was conducted by the Dermatology Department and the Artificial Intelligence and Data Science program of the Health Informatics Department of the institution.
 
 ## Dataset description
-The dataset described here was composed of information collected from 628 patients seen by expert dermatologists at the Hospital Italiano de Buenos Aires (Buenos Aires, Argentina). The collection comprises 1,635 images (1,280 contact-polarized dermoscopy images and 355 clinical images) captured from 1,257 lesions corresponding to the most frequent diagnoses observed at the institution. 
+The dataset described here was composed of information collected from 623 patients seen by expert dermatologists at the Hospital Italiano de Buenos Aires (Buenos Aires, Argentina). The collection comprises 1,616 images (1,270 contact-polarized dermoscopy images and 346 clinical images) captured from 1,246 lesions corresponding to the most frequent diagnoses observed at the institution. 
 
 ![image](https://user-images.githubusercontent.com/74262815/233088432-2bcff90a-e104-4312-81ba-caf84c93fe7d.png)
 
@@ -11,7 +11,7 @@ The dataset described here was composed of information collected from 628 patien
 The dataset is registered as a collection in the ISIC Archive. In this sense, it can be downloaded in two ways:
 
 1. By visiting the ISIC Archive website or accessing the collection DOI https://doi.org/10.34970/432362.
-![image](![image](https://github.com/piashiba/HIBASkinLesionsDataset/assets/74262815/b255d4f0-eac9-4f07-96fb-2758dee1820b))
+![image](https://github.com/piashiba/HIBASkinLesionsDataset/assets/74262815/b255d4f0-eac9-4f07-96fb-2758dee1820b)
 
 2. By resorting to the official command line tool for interacting with the ISIC Archive (for more information visit https://github.com/ImageMarkup/isic-cli)
 
