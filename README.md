@@ -10,7 +10,7 @@ The dataset described here was composed of information collected from 623 patien
 ## Access to the image collection 
 The dataset is registered as a collection in the ISIC Archive. In this sense, it can be downloaded in two ways:
 
-1. By visiting the ISIC Archive website or accessing the collection DOI https://doi.org/10.34970/432362.
+1. By visiting the ISIC Archive website or accessing the collection DOI https://doi.org/10.34970/587329.
 ![image](https://github.com/piashiba/HIBASkinLesionsDataset/assets/74262815/b255d4f0-eac9-4f07-96fb-2758dee1820b)
 
 2. By resorting to the official command line tool for interacting with the ISIC Archive (for more information visit https://github.com/ImageMarkup/isic-cli)
